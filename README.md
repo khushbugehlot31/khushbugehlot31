@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khushbu Gehlot and  i am a second year Computer science engineering student.
 - 👀 I’m curious to know about technology, art, programming and all new things.
 - 🌱 I’m here to learn more about programming field and to sharpen my skills. 
-- 💞️ I’m looking to collaborate on various projects that includes C/C++, Core java.
+- 💞️ I’m looking to collaborate on various projects that includes C/C++, java, DBMS, HTML, JavaScript, CSS.
 - 📫 You can reach me at @missk939@gmail.com
 
 <!---
